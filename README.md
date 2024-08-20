@@ -3,7 +3,7 @@
 
 ## Description
 
-This website was created as a study guide for students who are starting out in coding. It contains basic infomration on HTML, CSS, Git, and JavaScript.
+This website was created as a study guide for students who are starting out in coding. It contains basic information on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Each section contains basic notes on HTML, CSS, Git, and JavaScript. You can use that infomation as a starting point. Open up the DevTools console to see the topics that you can study from the prework.
+Each section contains basic notes on HTML, CSS, Git, and JavaScript. You can use that information as a starting point. Open up the DevTools console to see the topics that you can study from the prework.
 
 
 
